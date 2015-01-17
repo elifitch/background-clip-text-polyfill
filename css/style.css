@@ -1,0 +1,11 @@
+h1 {
+	font-size: 100px;
+	font-family: arial, sans-serif;
+	text-align: center;
+
+}
+.clip-text {
+	background: url('../img/super-saiyan.gif');
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
